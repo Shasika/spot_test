@@ -66,7 +66,7 @@ These instructions will help you set up and run the project on your local machin
 1. Clone the repository:
 
    ```sh
-   git clone 
+   git clone https://github.com/Shasika/spot_test.git
    ```
 
 
