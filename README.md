@@ -73,7 +73,7 @@ These instructions will help you set up and run the project on your local machin
 2. Navigate to the project directory:
 
    ```sh
-   cd your-project
+   cd spot_test
    ```
 
 
