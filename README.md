@@ -133,8 +133,8 @@ These instructions will help you set up and run the project on your local machin
 10. Run migrations and seed the database:
 
    ```sh
-    php artisan migrate:refresh --seed
-    ```
+   php artisan migrate:refresh --seed
+   ```
 
 11. Start the artisan server:
 
