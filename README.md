@@ -128,7 +128,7 @@ These instructions will help you set up and run the project on your local machin
    php artisan config:clear
    php artisan config:cache
    composer dump-autoload
-   ````
+   ```
 
 10. Run migrations and seed the database:
 
